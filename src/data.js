@@ -67,6 +67,11 @@ export const frontend = [
   },
   {
     id: 3,
+    language: "TypeScript",
+    percentage: "100%",
+  },
+  {
+    id: 4,
     language: "React",
     percentage: "100%",
   },
